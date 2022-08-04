@@ -1,0 +1,37 @@
+div {
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+.mt {
+    margin-top: 5px;
+}
+
+.mr {
+    margin-right: 5px;
+}
+
+.ml {
+    margin-left: 5px;
+}
+
+.mb {
+    margin-bottom: 5px;
+}
+
+a {
+     font-family: Sans-serif; 
+}
+
+.paragraf {
+    color:rgb(165, 157, 42);
+    font-family: 'Mouse Memoirs', sans-serif;
+}
+
+.baslik {
+    font-family: 'Mouse Memoirs', sans-serif;
+    color:red;
+}
